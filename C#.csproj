@@ -5,7 +5,7 @@
     <RootNamespace>C_</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.0"/>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6"/>
     <PackageReference Include="NuGet.Frameworks" Version="5.5.0-preview.2.6382"/>
     <PackageReference Include="Get" Version="1.0.0.1"/>
     <PackageReference Include="NuGet.Packaging" Version="5.5.0-preview.2.6382"/>
